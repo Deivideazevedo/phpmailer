@@ -1,0 +1,17 @@
+descompacte o arquivo rar e cole a pasta no htdocs do xampp
+baixar o arquivo do slide (slide de bibliotecas e frameworks na pasta material MEUS HTML) para instalar o composer, siga o passo a passo que são:
+instalar o composer no computador
+entrar no propomt de comando (CMD)
+chamar o caminho da pasta dentro do CMD desta forma: cd C:\Users\Roufous\Desktop\phpMailer3
+e colocar essa linha e dar enter para baixar os arquivos: composer require phpmailer/phpmailer
+apois isso dentro do envia.php corrija o caminho do require para o autoload.php para o arquivo que voce baixou
+
+em seguida preencha os campos do formulario e submita
+apos isso o email sera enviado ao dominio webmail.tido.com.br
+entre nesse dominio
+faça login de acordo com o login registrado no envia.php
+ 
+que no caso é: alunos
+e a senha: alunos22@test
+
+voce pode modificar isso para envia para o seu gmail

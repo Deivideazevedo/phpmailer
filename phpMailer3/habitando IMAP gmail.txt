@@ -1,0 +1,6 @@
+Ao ativar o IMAP, ele Permite  acessar o Gmail 
+a partir de outros programas usando IMAP
+
+Como ativar: entre no gmail, aperte nas engrenagens (configurações)
+vá em todas as configurações -> encaminhamento e POP/IMAP ->
+Ative o IMAP
